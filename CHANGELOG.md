@@ -1,3 +1,8 @@
+# v1.0.0 (2025-12-27)
+
+## ✨ New Features
+- [`241ca26`](https://github.com/fredrkl/net-configuration-demo/commit/241ca26)  Starting
+
 # [v1.3.0](https://github.com/fredrkl/template-base/compare/v1.2.0...v1.3.0) (2025-08-03)
 
 ## ✨ New Features
