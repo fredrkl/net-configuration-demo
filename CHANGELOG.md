@@ -1,3 +1,8 @@
+# [v1.1.0](https://github.com/fredrkl/net-configuration-demo/compare/v1.0.0...v1.1.0) (2025-12-28)
+
+## ✨ New Features
+- [`8b44158`](https://github.com/fredrkl/net-configuration-demo/commit/8b44158)  Demo application
+
 # v1.0.0 (2025-12-27)
 
 ## ✨ New Features
